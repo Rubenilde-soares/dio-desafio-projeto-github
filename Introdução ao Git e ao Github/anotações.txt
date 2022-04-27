@@ -1,0 +1,2 @@
+criar um repositório no github copiar e clonar na máquina, editar,
+ depois iniciar o commit e comitar e empurrar de volta ao github 

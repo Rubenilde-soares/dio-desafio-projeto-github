@@ -1,0 +1,2 @@
+Os quatro pilares são: decomposição,  reconhecimento de padrões, abstração de um problema e algoritmos.
+Pra solucionar um problema não é preciso usar todos os pilares, quanto mais rápido e efiente a solução é melhor.
